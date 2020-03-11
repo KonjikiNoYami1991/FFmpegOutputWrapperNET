@@ -1,2 +1,2 @@
 # FFmpegOutputWrapperNET
- Simple standard FFmpeg output&error wrapper DLL written in C# for Windows FFmpeg builds
+ Simple standard output&error wrapper DLL written in C# for Windows FFmpeg builds
