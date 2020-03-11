@@ -1,0 +1,11 @@
+C:\Users\Simo\Dropbox\C#\Programmi C#\FFmpeg Output Wrapper\FFmpeg Output Wrapper\bin\Debug\FFmpegOutputWrapperNET.dll
+C:\Users\Simo\Dropbox\C#\Programmi C#\FFmpeg Output Wrapper\FFmpeg Output Wrapper\bin\Debug\FFmpegOutputWrapperNET.pdb
+C:\Users\Simo\Dropbox\C#\Programmi C#\FFmpeg Output Wrapper\FFmpeg Output Wrapper\obj\Debug\FFmpegOutputWrapperNET.csproj.CoreCompileInputs.cache
+C:\Users\Simo\Dropbox\C#\Programmi C#\FFmpeg Output Wrapper\FFmpeg Output Wrapper\obj\Debug\FFmpegOutputWrapperNET.dll
+C:\Users\Simo\Dropbox\C#\Programmi C#\FFmpeg Output Wrapper\FFmpeg Output Wrapper\obj\Debug\FFmpegOutputWrapperNET.pdb
+C:\Users\sisociale\Dropbox\C#\Programmi C#\FFmpeg Output Wrapper\FFmpeg Output Wrapper\bin\Debug\FFmpegOutputWrapperNET.dll
+C:\Users\sisociale\Dropbox\C#\Programmi C#\FFmpeg Output Wrapper\FFmpeg Output Wrapper\bin\Debug\FFmpegOutputWrapperNET.pdb
+C:\Users\sisociale\Dropbox\C#\Programmi C#\FFmpeg Output Wrapper\FFmpeg Output Wrapper\obj\Debug\FFmpegOutputWrapperNET.csproj.CoreCompileInputs.cache
+C:\Users\sisociale\Dropbox\C#\Programmi C#\FFmpeg Output Wrapper\FFmpeg Output Wrapper\obj\Debug\FFmpegOutputWrapperNET.dll
+C:\Users\sisociale\Dropbox\C#\Programmi C#\FFmpeg Output Wrapper\FFmpeg Output Wrapper\obj\Debug\FFmpegOutputWrapperNET.pdb
+C:\Users\sisociale\Dropbox\C#\Programmi C#\FFmpeg Output Wrapper\FFmpeg Output Wrapper\obj\Debug\FFmpegOutputWrapperNET.csprojAssemblyReference.cache
