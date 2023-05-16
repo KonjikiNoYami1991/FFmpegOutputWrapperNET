@@ -1,5 +1,8 @@
 C:\Users\Simo\Dropbox\C#\Programmi C#\FFmpeg Output Wrapper\FFmpeg Output Wrapper\bin\x64\Debug\FFmpegOutputWrapperNET.dll
 C:\Users\Simo\Dropbox\C#\Programmi C#\FFmpeg Output Wrapper\FFmpeg Output Wrapper\bin\x64\Debug\FFmpegOutputWrapperNET.pdb
+C:\Users\Simo\Dropbox\C#\Programmi C#\FFmpeg Output Wrapper\FFmpeg Output Wrapper\obj\x64\Debug\FFmpegOutputWrapperNET.csproj.AssemblyReference.cache
 C:\Users\Simo\Dropbox\C#\Programmi C#\FFmpeg Output Wrapper\FFmpeg Output Wrapper\obj\x64\Debug\FFmpegOutputWrapperNET.csproj.CoreCompileInputs.cache
 C:\Users\Simo\Dropbox\C#\Programmi C#\FFmpeg Output Wrapper\FFmpeg Output Wrapper\obj\x64\Debug\FFmpegOutputWrapperNET.dll
 C:\Users\Simo\Dropbox\C#\Programmi C#\FFmpeg Output Wrapper\FFmpeg Output Wrapper\obj\x64\Debug\FFmpegOutputWrapperNET.pdb
+C:\Users\Simo\Dropbox\C#\Programmi C#\FFmpeg Output Wrapper\FFmpeg Output Wrapper\bin\Debug\FFmpegOutputWrapperNET.dll
+C:\Users\Simo\Dropbox\C#\Programmi C#\FFmpeg Output Wrapper\FFmpeg Output Wrapper\bin\Debug\FFmpegOutputWrapperNET.pdb
